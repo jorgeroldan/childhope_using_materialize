@@ -2,8 +2,6 @@
 
 ### Hola! :wave: este es un proyecto sin fines de lucro :sparkles:
 
----
-
 ## Colaboradores
 
 - `Franco Taboada` (**[`@FNTaboada`](https://github.com/FNTaboada)**)
@@ -16,7 +14,7 @@
 
 ### Comunidad Developers4Good
 
-> Si te interesa conocer o colaborar en proyectos sociales buscanos en redes sociales:
+Si te interesa conocer o colaborar en proyectos sociales buscanos en redes sociales:
 
 - **[`Website`](https://developersforgood.com)**  
 - **[`Meetup`](http://bit.do/Meetup_D4G)**   
