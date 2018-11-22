@@ -1,4 +1,4 @@
-# :computer: Childhope Ministries :rocket:  
+# :heart: Childhope Ministries :love:  
 
 ### Hola! :wave: este es un proyecto sin fines de lucro :sparkles:
 
