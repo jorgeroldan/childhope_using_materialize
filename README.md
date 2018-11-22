@@ -4,6 +4,16 @@
 
 ---
 
+## Colaboradores
+
+- `Franco Taboada` (**[`@FNTaboada`](https://github.com/FNTaboada)**)
+- `Jorge Shenone` (**[`@JorgeShenone`](https://twitter.com/)**)
+- `Ezequiel Blanco` (**[`@EzequielBlanco`](https://twitter.com/)**)
+- `Oliver Korn` (**[`@OliverKorn`](https://twitter.com/)**)
+- `Jorge Roldán`(**[`@roldanjorgex`](https://twitter.com/roldanjorgex)**)
+
+---
+
 ### Comunidad Developers4Good
 
 > Si te interesa conocer o colaborar en proyectos sociales buscanos en redes sociales:
@@ -16,18 +26,6 @@
 - **[`Instagram`](http://bit.do/Ig_D4G)**
 - **[`eMail`](mailto:devs4good@laburojoven.com)**  
 
-
----
-
-## Colaboradores
-
-- `Franco Taboada` (**[`@FNTaboada`](https://github.com/FNTaboada)**)
-- `Jorge Shenone` (**[`@FNTaboada`](https://twitter.com/)**)
-- `Ezequiel Blanco` (**[`@FNTaboada`](https://twitter.com/)**)
-- `Oliver Korn` (**[`@FNTaboada`](https://twitter.com/)**)
-- `Jorge Roldán`(**[`@roldanjorgex`](https://twitter.com/roldanjorgex)**)
-
----
 
 ## Agradecimientos
 
