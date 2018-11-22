@@ -8,6 +8,8 @@
 - `Jorge Shenone` (**[`@JorgeShenone`](https://twitter.com/)**)
 - `Ezequiel Blanco` (**[`@EzequielBlanco`](https://twitter.com/)**)
 - `Oliver Korn` (**[`@OliverKorn`](https://twitter.com/)**)
+- `Dani Aritto` (**[`@DaniAritto`](https://twitter.com/)**)
+- `Edu Sanchez` (**[`@EduSanchez`](https://twitter.com/)**)
 - `Jorge Roldán`(**[`@roldanjorgex`](https://twitter.com/roldanjorgex)**)
 
 ---
